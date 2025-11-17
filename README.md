@@ -7,13 +7,9 @@
 
 ## 🎥 Vidéo de Démonstration
 
-[![Démo Findini](https://img.youtube.com/vi/VOTRE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VOTRE_VIDEO_ID)
+https://github.com/user-attachments/assets/demo_mobile.mp4
 
-> 👆 Cliquez sur l'image pour voir la démonstration complète de l'application
-
-<!-- Alternative : Pour une vidéo locale
-https://user-images.githubusercontent.com/VOTRE_ID/VOTRE_VIDEO.mp4
--->
+> 📱 Démonstration complète de l'application mobile Findini
 
 ---
 
