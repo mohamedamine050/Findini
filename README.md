@@ -7,9 +7,7 @@
 
 ## 🎥 Vidéo de Démonstration
 
-https://github.com/mohamedamine050/Findini/raw/main/demo_mobile.mp4
-
-> 📱 Démonstration complète de l'application mobile Findini
+https://youtu.be/yp-CjIYsGsE?si=mtMXC3GTlDhxESzI
 
 ---
 
